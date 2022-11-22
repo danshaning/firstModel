@@ -1,0 +1,338 @@
+@font-face
+{
+    font-family: "ma_police";
+    src: url("open_sans.ttf");
+}
+
+@font-face
+{
+    font-family: "arimo";
+    src: url("arimo_regular.ttf");
+}
+
+body{font-family: ma police;}
+
+
+@media only screen and(max-width: 1024px;)
+{
+
+    
+}
+
+.card-title
+{
+    font-family: arimo;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card1
+{
+    padding: 0px;
+}
+.card2
+{
+    font-family: arimo;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+
+}
+
+.card3
+{
+    font-family: ma_police;
+    font-size: 12px;
+    line-height: 12px;
+    color: #a3a3a3;
+}
+
+.card5
+{
+    font-family: arimo, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.card6
+{
+    font-family: ma_police, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+#jh
+{
+    font-family: arimo, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+#jj
+{
+    font-family: arimo, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.foot
+{
+    font-family: arimo, sans-serif;
+    font-weight: ;
+    font-size: 14px;
+    line-height: 24px;
+    color: #a3a3a3;
+}
+
+.end
+{
+    font-family: ma_police, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+}
+.end2
+{
+    font-family: ma_police, sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    color: #999999;
+}
+
+/*--------------------------------------------------*/
+
+.aa
+{
+    max-width: 100% !important;
+}
+
+.bb
+{
+    color: white;
+    line-height: 40px;
+    background-color: black;
+}
+
+.cc
+{
+    background-color: transparent;
+    line-height: 40px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.dd
+{
+    margin-left: 20px;
+}
+
+.ee
+{
+    background-color: transparent;
+    line-height: 40px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.ff
+{
+    border-bottom: 3px solid red;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-bottom: 25px;
+}
+
+.gg
+{
+    line-height: 50px;
+    border-bottom: 1px solid #cccccc;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.hh
+{
+    margin: 10px;
+}
+
+.ii
+{
+    height: 50px;
+    width: 750px;
+}
+
+.jj
+{
+    height: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-width: 100% !important;
+}
+
+.kk
+{
+    height: 465px;
+    width: 666px;
+    background-image: url('img/img15.jpg');
+    background-repeat: no-repeat;
+}
+
+.ll
+{
+    background-color: transparent;
+    width: 470.5px;
+    border-left: 3px solid white;
+}
+
+.mm
+{
+    background-image: url('img/img35.jpg');
+    height: 280px;
+    border-bottom: 3px solid white;
+}
+
+.nn
+{
+    background-image: url('img/img35.jpg');
+    height: 182px;
+}
+
+.oo
+{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.pp
+{
+    width: 750px;
+    height: auto;
+}
+
+.qq
+{
+    width: auto;
+    height: 32px;
+    border-bottom: 2px solid red;
+}
+
+.qq1
+{
+    width: 720px;
+    height: 32px;
+    border-bottom: 2px solid dodgerblue;
+    margin-bottom: 50px;
+}
+.qq2
+{
+    width: auto;
+    height: 32px;
+    border-bottom: 2px solid black;
+    margin-bottom: 50px;
+}
+.qq3
+{
+    width: auto;
+    height: 32px;
+    border-bottom: 2px solid red;
+    margin-bottom: 50px;
+}
+
+.rr
+{
+    width:750px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 50px;
+}
+
+.ss
+{
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+
+.tt
+{
+    width: inherit;
+    max-height: 390px;
+}
+
+.uu
+{
+    width: 390px;
+    height: 390px;
+}
+
+.vv
+{
+    width: 360px;
+    height: 89px;
+}
+
+.ww
+{
+    width: auto;
+    height: 89px;
+    padding-left: 0px !important;
+    padding-top: 25px;
+    margin-bottom: 15px;
+}
+
+.imgg
+{
+    height: 75px;
+    width: 100px;
+}
+
+.imgg1
+{
+    float: left;
+    padding-right: 15px;
+}
+
+.ex
+{
+    margin-left: 10px;
+    width: 370px;
+}
+
+.list1
+{
+    padding-top:10px;
+    border: 1px solid black;
+    height: 48px; width: 48px;
+}
+
+.ex2
+{
+    padding-top: 50px;
+    width: 342px;
+}
+
+.ex3
+{
+    height: 226px;
+    width: auto;
+    background-image: url('img/img15.jpg');
+    background-repeat: no-repeat;
+}
+
+.ex4
+{
+    float: left;
+    padding-right: 15px;
+}
+
+.ex5
+{
+    height: 226px;
+    width: 340px;
+    background-image: url('img/img15.jpg');
+    background-repeat: no-repeat;
+}
+

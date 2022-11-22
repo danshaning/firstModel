@@ -1,0 +1,20 @@
+/*.carrousel li
+{
+    width: 500px;
+    height: 500px;
+    !*position: absolute;*!
+    list-style: none;
+    float: left !important;
+}*/
+.carrousel{
+    position:relative;
+    height:200px;
+    width:700px;
+    margin:auto;
+}
+.carrousel ul li{
+    position:absolute;
+    top:0;
+    left:0;
+}
+
